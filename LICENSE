@@ -1,0 +1,10 @@
+Copyright (c) 2026 Francisco Perez. All rights reserved.
+
+This software, its source code, data, documentation, teaching content and the built web site
+("Sail Physics Explorer") are proprietary. No license is granted to copy, modify, distribute,
+publish, sublicense or sell any part of it, in whole or in part, without the prior written
+permission of the copyright holder. Viewing the published site in a web browser for personal use
+is permitted.
+
+Third-party open-source components used by this software remain under their own licenses
+(see package.json and node_modules/*/LICENSE).
