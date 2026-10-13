@@ -1,0 +1,1 @@
+function e(e,t,n,r,i=0,a=0,o=0){let s=e*Math.cos(t)+n*Math.cos(i)+a,c=t<0?-1:1,l=(e*Math.sin(t)-c*n*Math.sin(i))*Math.cos(r)+c*o;return{aws:Math.hypot(s,l),awa:Math.atan2(l,s)}}var t=.5;function n(e,n,r){return e*(Math.max(n,t)/10)**r}function r(e,n,r=0){return r===0?e:e+r*(Math.max(n,t)-10)/10}export{n,e as r,r as t};
