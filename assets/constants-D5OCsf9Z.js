@@ -1,0 +1,1 @@
+var e=9.80665,t=1.225,n=1025,r=119e-8,i=.514444,a=.3048,o=Math.PI/180,s=e=>e*i,c=e=>e/i,l=e=>e*o,u=e=>e/o;export{r as a,l as c,u as d,i,s as l,a as n,t as o,e as r,n as s,o as t,c as u};

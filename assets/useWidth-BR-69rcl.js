@@ -1,0 +1,1 @@
+import{a as e,n as t}from"./jsx-runtime-D3jfb0Ew.js";var n=e(t(),1);function r(e=640){let t=(0,n.useRef)(null),[r,i]=(0,n.useState)(e);return(0,n.useEffect)(()=>{let e=t.current;if(!e||typeof ResizeObserver>`u`)return;let n=new ResizeObserver(([e])=>{let t=Math.floor(e.contentRect.width);t>0&&i(t)});return n.observe(e),()=>n.disconnect()},[]),[t,r]}export{r as t};
